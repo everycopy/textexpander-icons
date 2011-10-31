@@ -22,6 +22,8 @@ http://dribbble.com/shots/303057
 
 Subsequently forked by James Goode, who added a balloon versions.
 
+http://dribbble.com/shots/306326
+
 
 There are currently four versions of replacement icons:
 
