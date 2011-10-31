@@ -20,7 +20,7 @@ Dribbble, I decided to make them available to everyone.
 
 http://dribbble.com/shots/303057
 
-Subsequently forked by James Goode, who added a balloon versions.
+Subsequently forked by James Goode, who added a balloon version.
 
 http://dribbble.com/shots/306326
 
